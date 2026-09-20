@@ -1,8 +1,5 @@
 # LG-PF: Lightweight Confidence-Guided Polarization Image Fusion
 
-<p align="center">
-  🌐 <b>English</b> | <a href="./README_CN.md">简体中文</a>
-</p>
 
 <p align="center">
   <b>Zhuangfan Huang</b>,
